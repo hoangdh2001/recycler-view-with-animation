@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Recycler View Animations</string>
+    <string name="dummy_news_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+</resources>
